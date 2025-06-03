@@ -1,0 +1,10 @@
+import plagas.*
+import elementos.*
+
+describe "Grupo de test plagas." {
+
+  test "Plagas" {
+    assert.equals(100, 100)
+  }
+
+}
